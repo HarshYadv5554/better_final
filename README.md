@@ -38,24 +38,3 @@ Break the web page into parts e.g. navbar, showcase (part with mobile phone card
 - ES6 Javascript syntax
 
 
-### What I learned
-
-How to use custom fonts in React by including them in a fonts directory and importing them on the top most css file.
-
-```css
-@import url("./fonts/Graphik-Regular/style.css");
-```
-
-How to use css variables to control things like colors and fonts for the entire app from one file in React.
-
-```css
-:root {
-  --primary-font: 'Graphik', sans-serif;
-  --secondary-font: 'Montserrat', sans-serif;
-  --primary-color: #281741;
-  --secondary-color: #00bf92;
-  --tertiary-color: #6f6f6f;
-}
-```
-
-
