@@ -2,16 +2,6 @@
 
 This is a clone of the [Better Mortgage](https://better.com/) landing page. The project was built to practice my Front-End web development skills by cloning a live web page from the internet and reproduce it as closely as I could. 
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-- [Author](#author)
 
 ## Overview
 
@@ -31,9 +21,7 @@ To reproduce the landing page of the website as closely as possible and implemen
 
 ![](./screenshots/screenshot1.png)
 
-### Links
 
-- Solution URL: [Solution on Github](https://github.com/Wandonium/Better.com-clone)
 - Live Site URL: [Live Site on Netlify](https://wandonium-mortgage.netlify.app/)
 
 ## My process
@@ -70,8 +58,4 @@ How to use css variables to control things like colors and fonts for the entire 
 }
 ```
 
-## Author
 
-- Website - [Hillary Wando](http://hillarywando.com/)
-- Codepen - [@Wandonium](https://codepen.io/wandonium)
-- Twitter - [@hillarywando](https://www.twitter.com/hillarywando)
